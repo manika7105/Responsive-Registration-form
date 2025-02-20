@@ -25,9 +25,7 @@ This project implements a user registration form using HTML, CSS, JavaScript, an
 ## Setup and Installation
 
 1.  **Clone the Repository:**
-    ```bash
     git clone [https://github.com/manika7105/Responsive-Reg-form.git]https://github.com/manika7105/Responsive-Reg-form.git)
-    ```
 
 2.  **Database Setup:**
     *   Create a MySQL database named `registration` (or change the `$dbname` variable in `dbconnection.php` accordingly).
