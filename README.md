@@ -1,4 +1,4 @@
-# Responsive-Registration-Form
+# Responsive Registration Form
 
 This project implements a user registration form using HTML, CSS, JavaScript, and PHP.  It includes client-side validation using JavaScript and server-side processing with PHP to store user data in a MySQL database.
 
