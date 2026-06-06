@@ -8,7 +8,7 @@ This project was created to practice frontend development, form validation, back
 
 ## 📸 Preview
 
-![Registration Form](screenshots/preview.png)
+![Registration Form](screenshot/preview.png)
 
 ---
 
